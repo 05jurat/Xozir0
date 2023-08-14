@@ -1,0 +1,11 @@
+@media only screen and (max-width:992px){
+.colck__wrapper{
+    justify-content: center;
+}
+.colck__data h1{
+font-size: 1.1rem !important;
+}
+.colck__data h5{
+    font-size: 0.9rem !important;
+    }
+}
